@@ -37,7 +37,6 @@ The Quiz Solutions section includes answers to quizzes, demonstrating how to sol
 To view the contents of this repository, clone it using the following command:
 
 ```bash
-Copy code
 git clone https://github.com/prateek0809/Data_Analytics_Essentials.git
 ```
 You can then navigate to the desired folder and open the Jupyter notebooks to explore the solutions.
